@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>edit item data</title>
+  </head>
+  <body>
+    <form action="/edit/<%=item.id%>" method="post">
+      <label for="name">item name</label>
+      <input
+        type="text"
+        name="name"
+        placeholder="enter updated name"
+        required
+        value="<%=item.name%>"
+      />
+      <button type="submit">update</button>
+    </form>
+  </body>
+</html>
