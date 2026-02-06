@@ -1,9 +1,9 @@
-<img width="1741" height="861" alt="Screenshot 2026-02-05 233842" src="https://github.com/user-attachments/assets/ecfc84b0-ced7-4012-a6f2-cf999a679e17" />
+<img width="1915" height="910" alt="Screenshot 2026-02-06 105231" src="https://github.com/user-attachments/assets/304fead6-559a-452f-a157-ff6122b1f0e1" />
 
 🧩 EJS CRUD Application (Express.js)
 
 A simple CRUD (Create, Read, Update, Delete) application built using Node.js, Express.js, and EJS.
-This project demonstrates server-side rendering, routing, form handling, and basic UI styling with external CSS.
+This project demonstrates server-side rendering, routing, form handling, and basic UI styling with external CSS
 
 🚀 Features
 
